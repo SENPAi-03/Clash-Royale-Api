@@ -6,6 +6,8 @@
 * Python Installed
 
 ## Installation
+### Fill Token
+* rename **[.env.example](https://github.com/SENPAi-03/Clash-Royale-Api/blob/main/.env.example)** into **.env** and put you api token inside it
 ### Clone The Repo
 ```sh
 apt-get install git
