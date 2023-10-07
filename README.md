@@ -20,5 +20,5 @@ pip install -r requirements.txt
 python main.py
 ```
 
-##Result
+## Result
 ![Screenshot](https://media.discordapp.net/attachments/888787817818370169/1158911482218688582/IMG_20231004_023833.jpg?ex=651df7ec&is=651ca66c&hm=778a2f55de2cfc4d1c1372203f20b690ab67c0dd8c3631d30b0f1994168d1b49&)
